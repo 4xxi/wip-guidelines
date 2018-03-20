@@ -3,3 +3,5 @@ index.html
 search_index.json
 node_modules
 _book
+management/*.html
+development/*.html
