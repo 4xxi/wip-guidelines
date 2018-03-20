@@ -1,8 +1,6 @@
 # Введение
 
-1. Docker
-2. Frontend
-3. Mobile
+1. [Управление](/management/README.md)
 
 
 
