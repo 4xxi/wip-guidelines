@@ -1,6 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [Management](management/README.md)
+* [Введение](README.md)
+* [Управление](management/README.md)
   * [Перед запуском нового проекта](management/project-launch-checklist.md)
-* [Development](development.md)
+  * [Как релизить проект?] (management/how-to-release.md)
+  * [Книги для прочтения](management/books.md)
+* [Разработка](development/README.md)

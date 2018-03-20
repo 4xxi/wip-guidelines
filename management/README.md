@@ -12,11 +12,12 @@
 
 ### Запуск нового проекта
 
-* [Чеклист для выполнения перед запуском нового проекта](management/project-launch-checklist.md)
+* [Как релизить проект?] (how-to-release.md)
+* [Чеклист для выполнения перед запуском нового проекта](project-launch-checklist.md)
 
 ## Чеклисты
 
-* [Перед запуском нового проекта](management/project-launch-checklist.md)
+* [Перед запуском нового проекта](project-launch-checklist.md)
 
 ## Аналитика
 
@@ -24,4 +25,4 @@
 
 ## Разное
 
-* [Книги для прочтения](management/books.md)
+* [Книги для прочтения](books.md)
